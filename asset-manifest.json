@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MaksimLisovoi/goit-react-hw-02-feedback/static/css/main.218a7e59.chunk.css",
+    "main.js": "/MaksimLisovoi/goit-react-hw-02-feedback/static/js/main.a14a0c0e.chunk.js",
+    "main.js.map": "/MaksimLisovoi/goit-react-hw-02-feedback/static/js/main.a14a0c0e.chunk.js.map",
+    "runtime-main.js": "/MaksimLisovoi/goit-react-hw-02-feedback/static/js/runtime-main.2fa8e08d.js",
+    "runtime-main.js.map": "/MaksimLisovoi/goit-react-hw-02-feedback/static/js/runtime-main.2fa8e08d.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/MaksimLisovoi/goit-react-hw-02-feedback/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.c3e89137.chunk.js": "/MaksimLisovoi/goit-react-hw-02-feedback/static/js/2.c3e89137.chunk.js",
+    "static/js/2.c3e89137.chunk.js.map": "/MaksimLisovoi/goit-react-hw-02-feedback/static/js/2.c3e89137.chunk.js.map",
+    "index.html": "/MaksimLisovoi/goit-react-hw-02-feedback/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/MaksimLisovoi/goit-react-hw-02-feedback/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.218a7e59.chunk.css.map": "/MaksimLisovoi/goit-react-hw-02-feedback/static/css/main.218a7e59.chunk.css.map",
+    "static/js/2.c3e89137.chunk.js.LICENSE.txt": "/MaksimLisovoi/goit-react-hw-02-feedback/static/js/2.c3e89137.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa8e08d.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.c3e89137.chunk.js",
+    "static/css/main.218a7e59.chunk.css",
+    "static/js/main.a14a0c0e.chunk.js"
+  ]
+}
